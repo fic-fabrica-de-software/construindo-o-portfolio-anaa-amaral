@@ -1,23 +1,40 @@
-body{
-    background-color: rgb(236, 131, 166);
+body {
+    background-color: red;
+    background-image: linear-gradient(rgb(238, 89, 144), rgb(255, 141, 206), rgb(255, 141, 206), rgb(238, 89, 144));
     margin: 10px;
 }
 
-    .borda{
-        border-color: rgb(194, 73, 113);
-        border-radius: 50px;
-        border-style: solid;
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        color: white;
-        display: flex;
-        padding: 10px;
-    }
+.borda {
+    border-color: rgb(194, 73, 113);
+    border-radius: 50px;
+    border-style: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
 
-    .nome{
-        padding-left: 50px;
-        padding-right: 900px;
-    }
+.nome {
+    padding-left: 50px;
+    padding-right: 850px;
+}
 
-    .info{
-        padding-left: 10px;
-    }
+.info1 {
+    padding-left: 30px;
+    display: flex;
+}
+
+.info2 {
+    padding-left: 30px;
+    display: flex;
+}
+
+.info3 {
+    padding-left: 30px;
+    display: flex;
+}
+
+img {
+    position: static;
+}
