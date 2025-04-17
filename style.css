@@ -4,7 +4,7 @@ body {
     margin: 10px;
 }
 
-.borda {
+    .borda {
     border-color: rgb(194, 73, 113);
     border-radius: 50px;
     border-style: solid;
@@ -13,28 +13,36 @@ body {
     display: flex;
     padding: 10px;
     align-items: center;
-}
+    }
 
-.nome {
+    .nome {
     padding-left: 50px;
     padding-right: 850px;
-}
+    }
 
-.info1 {
+    .info1 {
     padding-left: 30px;
     display: flex;
-}
+    }
 
-.info2 {
+    .info2 {
     padding-left: 30px;
     display: flex;
-}
+    }
 
-.info3 {
+    .info3 {
     padding-left: 30px;
     display: flex;
-}
+    }
 
-img {
+    img {
     position: static;
-}
+    }
+
+    img{
+        border-radius: 1000px;
+        margin:50px ;
+        border: 15px;
+        border-color: rgb(216, 85, 129);
+        border-style: solid;
+    }
