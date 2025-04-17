@@ -64,7 +64,7 @@ body {
 .ferramentas {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(179, 50, 93);
+    color:  rgb(211, 38, 96);
     border: 0px;
 }
 
@@ -74,15 +74,23 @@ body {
     height: 70px;
 }
 
-.linha {
-    border: 1px;
-    border-color: rgb(179, 50, 93);
-}
-
 hr.new1 {
     margin: 80px;
     border: 0;
     height: 1px;
     border-top: 1px solid rgb(179, 50, 93);
     padding: 0;
+}
+
+.imgmeio{
+    width: 400px;
+    height: 250px;
+    border: 15px;
+    border-color: rgb(211, 38, 96);
+    border-style: solid;
+    border-radius: 10px 10px 0 10px;}
+
+.meio{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(211, 38, 96);
 }
