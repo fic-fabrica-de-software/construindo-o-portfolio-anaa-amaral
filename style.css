@@ -4,7 +4,7 @@ body {
     margin: 10px;
 }
 
-    .borda {
+.borda {
     border-color: rgb(194, 73, 113);
     border-radius: 50px;
     border-style: solid;
@@ -13,54 +13,76 @@ body {
     display: flex;
     padding: 10px;
     align-items: center;
-    }
+}
 
-    .nome {
+.nome {
     padding-left: 50px;
     padding-right: 850px;
-    }
+}
 
-    .info1 {
+.info1 {
     padding-left: 30px;
     display: flex;
-    }
+}
 
-    .info2 {
+.info2 {
     padding-left: 30px;
     display: flex;
-    }
+}
 
-    .info3 {
+.info3 {
     padding-left: 30px;
     display: flex;
-    }
+}
 
-    img {
-    position: static;
-    }
+.im {
+    border-radius: 1000px;
+    margin: 50px;
+    border: 15px;
+    border-color: rgb(216, 85, 129);
+    border-style: solid;
+}
 
-    img{
-        border-radius: 1000px;
-        margin:50px ;
-        border: 15px;
-        border-color: rgb(216, 85, 129);
-        border-style: solid;
-    }
+.perfis {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    color: rgb(126, 26, 60);
+}
 
-    .perfis{
-        font-family: 'Times New Roman', Times, serif;
-        display: flex;
-        color: rgb(126, 26, 60);
-    }
+.perfil {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    padding-top: 100px;
+    padding-left: 100px;
+}
 
-    .perfil{
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size: x-large;
-        padding-top: 100px;
-        padding-left: 100px;
-    }
+.h {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
 
-    .h{
-        font-family: 'Times New Roman', Times, serif;
-        font-size: xx-large;
-    }
+.ferramentas {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(179, 50, 93);
+    border: 0px;
+}
+
+.imgs {
+    padding-top: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.linha {
+    border: 1px;
+    border-color: rgb(179, 50, 93);
+}
+
+hr.new1 {
+    margin: 80px;
+    border: 0;
+    height: 1px;
+    border-top: 1px solid rgb(179, 50, 93);
+    padding: 0;
+}
