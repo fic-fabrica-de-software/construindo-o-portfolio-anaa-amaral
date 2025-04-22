@@ -140,27 +140,29 @@ hr.new1 {
     font-size: small;
 }
 .lin1{
-    border: 1px solid ; 
-    border-color: rgb(211, 38, 96);
-    background-color:  rgb(211, 38, 96);
+    border: 0px solid ; 
+    background: linear-gradient(to right, rgba(255, 152, 186, 0.349), rgb(255, 88, 149));
+    color: white;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px; 
     display: inline-block; 
-    opacity: 50%;
     position: absolute;
-    margin-left: 900px;
-    margin-top: -200px;
+    margin-left: 870px;
+    margin-top: -210px;
     border-radius: 10px;
 }
 
 .lin2{
-    border: 1px solid ; 
-    border-color: rgb(211, 38, 96);
-    background-color:  rgb(211, 38, 96);
+    border: 0px solid ; 
+    background: linear-gradient(to left,  rgba(255, 152, 186, 0.349), rgb(255, 88, 149));
+    color: white;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px; 
     display: inline-block; 
-    opacity: 50%;
     position: absolute;
     margin-left: 450px;
-    margin-top: -200px;
+    margin-top: -210px;
     border-radius: 10px;
 }
