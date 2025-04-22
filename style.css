@@ -85,10 +85,14 @@ hr.new1 {
 .imgmeio{
     width: 400px;
     height: 250px;
-    border: 15px;
+    border-bottom: 0px;
+    border-left: 15px;
+    border-top: 15px;
+    border-right: 0px;
     border-color: rgb(211, 38, 96);
     border-style: solid;
-    border-radius: 10px 10px 0 10px;}
+    border-radius: 10px 10px 0 10px;
+}
 
 .meio{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
