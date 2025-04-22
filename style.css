@@ -2,6 +2,7 @@ body {
     background-color: red;
     background-image: linear-gradient(rgb(238, 89, 144),  rgb(255, 141, 206), rgb(238, 89, 144));
     margin: 10px;
+    position: relative;
 }
 
 .borda {
@@ -168,27 +169,56 @@ hr.new1 {
 }
 
 .circulo1 {
-   width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
     padding: 20px;
     border-radius: 10px;
     display: flex;
     border-radius: 1000px;
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: -40px;
   }
   
 .circulo2 {
-    width: 300px;
-    height: 300px;
-    background: radial-gradient(circle, rgba(211, 38, 96), rgba(238, 89, 144, 0)); 
-    border: 0px;
-    border-image: radial-gradient(circle, rgba(211, 38, 96),  rgba(238, 89, 144)) 1;
+    width: 350px;
+    height: 350px;
+    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
     padding: 20px;
     border-radius: 10px;
     display: flex;
     border-radius: 1000px;
+    position: absolute;
+    margin-left: 1460px;
+    margin-top: -40px;
   }
 
+.circulo3 {
+    width: 350px;
+    height: 350px;
+    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    border-radius: 1000px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -50px;
+  }
+  
+.circulo4 {
+    width: 350px;
+    height: 350px;
+    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    border-radius: 1000px;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -50px;
+  }
  
 
  
