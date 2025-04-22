@@ -1,6 +1,6 @@
 body {
     background-color: red;
-    background-image: linear-gradient(rgb(238, 89, 144), rgb(255, 141, 206), rgb(255, 141, 206), rgb(238, 89, 144));
+    background-image: linear-gradient(rgb(238, 89, 144),  rgb(255, 141, 206), rgb(238, 89, 144));
     margin: 10px;
 }
 
@@ -86,15 +86,55 @@ hr.new1 {
     width: 400px;
     height: 250px;
     border-bottom: 0px;
-    border-left: 15px;
-    border-top: 15px;
+    border-left: 20px;
+    border-top: 20px;
     border-right: 0px;
     border-color: rgb(211, 38, 96);
     border-style: solid;
     border-radius: 10px 10px 0 10px;
 }
 
-.meio{
+.imgmeio2{
+    width: 400px;
+    height: 250px;
+    border-bottom: 0px;
+    border-left: 20px;
+    border-top: 20px;
+    border-right: 0px;
+    border-color: rgb(211, 38, 96);
+    border-style: solid;
+    border-radius: 10px 10px 0 10px;
+}
+
+.meio1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(211, 38, 96);
+    display: flex;
+    text-align: left;
+    margin-left: 950px;
+}
+
+.meio2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(211, 38, 96);
+    display: flex;
+    margin-left: 130px;
+}
+
+.titulo{
+    margin: 10px;
+}
+
+.li1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1420px;
+    color: white;
+    font-size: small;
+}
+
+.li2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 150px;
+    color: white;
+    font-size: small;
 }
