@@ -166,3 +166,29 @@ hr.new1 {
     margin-top: -210px;
     border-radius: 10px;
 }
+
+.circulo1 {
+   width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    border-radius: 1000px;
+  }
+  
+.circulo2 {
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(211, 38, 96), rgba(238, 89, 144, 0)); 
+    border: 0px;
+    border-image: radial-gradient(circle, rgba(211, 38, 96),  rgba(238, 89, 144)) 1;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    border-radius: 1000px;
+  }
+
+ 
+
+ 
