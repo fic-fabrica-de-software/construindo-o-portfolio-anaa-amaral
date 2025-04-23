@@ -254,7 +254,7 @@ hr.new1 {
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: small;
-    padding-top: 100px;
+    padding-top: 110px;
 }
 
 .info {
@@ -289,18 +289,21 @@ hr.new {
     height: 55px;
     padding-left: 1100px;
     padding-right: 5px;
+    padding-bottom: -100px;
 }
 
 .imgbaixo2{
     width: 40px;
     height: 40px;
     padding-right: 5px;
+    padding-bottom: -100px;
 }
 
 .imgbaixo3{
     width: 40px;
     height: 40px;
     padding-right: 60px;
+    padding-bottom: -100px;
 }
 
  
