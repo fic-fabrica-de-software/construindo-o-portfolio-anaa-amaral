@@ -247,6 +247,33 @@ hr.new1 {
     border-radius: 10px;
     margin: 20px;
 }
+
+.info4 {
+    padding-left: 1100px;
+    display: flex;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    padding-top: 100px;
+}
+
+.info {
+    padding-left: 30px;
+    display: flex;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+
+hr.new {
+    margin: 80px;
+    border: 0;
+    height: 1px;
+    border-top: 1px solid rgb(179, 50, 93);
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
  
 
  
