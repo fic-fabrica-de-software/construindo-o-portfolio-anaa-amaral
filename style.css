@@ -177,55 +177,55 @@ hr.new1 {
 }
 
 .circulo1 {
-    width: 350px;
-    height: 350px;
-    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    width: 450px;
+    height: 450px;
+    background: radial-gradient(circle, rgb(255, 0, 85) 0%, rgba(238, 89, 144, 0) 70%); 
     padding: 20px;
     border-radius: 10px;
     display: flex;
     border-radius: 1000px;
     position: absolute;
-    margin-left: 1250px;
-    margin-top: -40px;
+    margin-left: 1200px;
+    margin-top: -70px;
   }
   
 .circulo2 {
-    width: 350px;
-    height: 350px;
-    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    width: 450px;
+    height: 450px;
+    background: radial-gradient(circle, rgb(255, 0, 85) 0%, rgba(238, 89, 144, 0) 70%); 
     padding: 20px;
     border-radius: 10px;
     display: flex;
     border-radius: 1000px;
     position: absolute;
-    margin-left: 1460px;
-    margin-top: -40px;
+    margin-left: 1400px;
+    margin-top: -70px;
   }
 
 .circulo3 {
-    width: 350px;
-    height: 350px;
-    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    width: 450px;
+    height: 450px;
+    background: radial-gradient(circle, rgb(255, 0, 85) 0%, rgba(255, 0, 93,0) 70%); 
     padding: 20px;
     border-radius: 10px;
     display: flex;
     border-radius: 1000px;
     position: absolute;
-    margin-left: 40px;
-    margin-top: 350px;
+    margin-left: 200px;
+    margin-top: 320px;
   }
   
 .circulo4 {
-    width: 350px;
-    height: 350px;
-    background: radial-gradient(circle, rgb(211, 38, 96), rgba(238, 89, 144, 0)); 
+    width: 450px;
+    height: 450px;
+    background: radial-gradient(circle, rgb(255, 0, 85) 0%, rgba(238, 89, 144, 0) 70%); 
     padding: 20px;
     border-radius: 10px;
     display: flex;
     border-radius: 1000px;
     position: absolute;
-    margin-left: 250px;
-    margin-top: 350px;
+    margin-left: 10px;
+    margin-top: 320px;
   }
 
 .titu{
@@ -238,7 +238,7 @@ hr.new1 {
 
 .proj{
     border: 0px solid ; 
-    background: linear-gradient(to right, rgba(255, 152, 186, 0.349), rgba(255, 88, 149));
+    background: linear-gradient(to left, rgba(255, 152, 186, 0.349), rgb(228, 64, 124));
     color: white;
     font-size: smaller;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
