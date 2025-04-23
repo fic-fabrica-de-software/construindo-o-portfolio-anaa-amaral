@@ -172,9 +172,8 @@ hr.new1 {
     display: inline-block; 
     position: absolute;
     margin-left: 450px;
-    margin-top: -210px;
+    margin-top: 520px;
     border-radius: 10px;
-    padding-top: ;
 }
 
 .circulo1 {
@@ -227,6 +226,13 @@ hr.new1 {
     position: absolute;
     margin-left: 250px;
     margin-top: 350px;
+  }
+
+  .titu{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  rgb(211, 38, 96);
+    padding-top: 800px;
   }
  
 
