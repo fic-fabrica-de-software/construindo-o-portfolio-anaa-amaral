@@ -317,7 +317,8 @@ hr.new1 {
 
 
 hr.new {
-    margin: 80px;
+    margin-top: 10px;
+    margin-bottom: 80px;
     border: 0;
     height: 1px;
     border-top: 1px solid rgb(179, 50, 93);
