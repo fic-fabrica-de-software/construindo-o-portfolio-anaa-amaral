@@ -385,7 +385,7 @@ hr.new {
         align-items: center;
         justify-content: center;
         font-family: sans-serif;
-  background-image: url("1.png");
+        background-image: url("1.png");
       }
   
       .noise-box {
@@ -430,4 +430,6 @@ hr.new {
       <h2>Now the Noise Works</h2>
     </div>
   </body>
-  </html> */
+  </html> 
+  
+  Teste para adicionar textura a minha div - lin1*/
