@@ -150,7 +150,7 @@ hr.new1 {
 }
 .lin1{
     border: 0px solid ; 
-    background: linear-gradient(to left, rgba(51, 38, 88, 0.438), rgb(255, 88, 149));
+    background: linear-gradient(to left, rgba(51, 38, 88, 0.438),rgb(255, 111, 164), rgb(255, 111, 164));
     color: white;
     font-size: smaller;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -164,7 +164,7 @@ hr.new1 {
 
 .lin2{
     border: 0px solid ; 
-    background: linear-gradient(to right,  rgba(255, 177, 204, 0.575), rgb(255, 88, 149));
+    background: linear-gradient(to right,  rgba(255, 177, 204, 0.575), rgb(255, 111, 164));
     color: white;
     font-size: smaller;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
