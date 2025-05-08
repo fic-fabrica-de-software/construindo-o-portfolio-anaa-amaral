@@ -368,6 +368,23 @@ hr.new {
     padding-bottom: 1px;
   }
 
+.bot{
+    border: 0px solid ; 
+    background: linear-gradient(to left, rgba(255, 41, 130, 0.438), rgb(255, 163, 197));
+    backdrop-filter:blur(8px);
+    box-shadow: 10px 10px 10px rgb(253, 159, 213);
+    color: white;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px; 
+    display: inline-block; 
+    position: absolute;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin: 3% 38% 10% 42%;
+
+}  
+
 
  
 /* 
