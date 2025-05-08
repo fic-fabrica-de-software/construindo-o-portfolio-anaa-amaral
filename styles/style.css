@@ -370,7 +370,7 @@ hr.new {
 
 .bot{
     border: 0px solid ; 
-    background: linear-gradient(to left, rgba(255, 41, 130, 0.438), rgb(255, 163, 197));
+    background: linear-gradient(to left, rgba(255, 75, 150, 0.438), rgb(255, 163, 197));
     backdrop-filter:blur(8px);
     box-shadow: 10px 10px 10px rgb(253, 159, 213);
     color: white;
@@ -382,8 +382,39 @@ hr.new {
     margin-top: 50px;
     border-radius: 10px;
     margin: 3% 38% 10% 42%;
+    animation: pulse 2s infinite;
 
 }  
+
+.bot:hover{
+    border: 0px solid ; 
+    background: linear-gradient(to left, rgb(255, 111, 164), rgba(255, 41, 130, 0.438));
+    backdrop-filter:blur(8px);
+    box-shadow: 10px 10px 10px rgb(253, 159, 213);
+    color: white;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px; 
+    display: inline-block; 
+    position: absolute;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin: 3% 38% 10% 42%;
+    animation: pulse 2s infinite;
+
+} 
+
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
 
 
  
