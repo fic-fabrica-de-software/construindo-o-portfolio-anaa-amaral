@@ -86,6 +86,7 @@ body {
     padding-top: 10px;
     width: 70px;
     height: 70px;
+    padding-bottom: 40px;
 }
 
 hr.new1 {
@@ -293,7 +294,7 @@ hr.new1 {
     padding-left: 100px; 
     display: inline-block; 
     margin: 1px;
-    margin-bottom: 70px;
+    margin-bottom: 2px;
 }
 
 .leg2{
