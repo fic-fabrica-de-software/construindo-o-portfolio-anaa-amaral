@@ -41,6 +41,8 @@ body {
     border: 15px;
     border-color: rgb(216, 85, 129);
     border-style: solid;
+    height: 400px;
+    width: 400px;
 }
 
 .perfis {
@@ -489,11 +491,8 @@ hr.new {
   @media only screen and (max-width: 1000px) {
     body {
       .im {
-        border-radius: 1000px;
-        margin: 50px;
-        border: 15px;
-        border-color: rgb(216, 85, 129);
-        border-style: solid;
+        height: 300px;
+        width: 300px;
     }
     }
   }
