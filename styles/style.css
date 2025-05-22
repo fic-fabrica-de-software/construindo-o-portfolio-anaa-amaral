@@ -17,22 +17,21 @@ body {
 }
 
 .nome {
-    padding-left: 50px;
-    padding-right: 850px;
+    margin: 0% 45% 0% 5%;
 }
 
 .info1 {
-    padding-left: 30px;
+    margin-left: 20px;
     display: flex;
 }
 
 .info2 {
-    padding-left: 30px;
+    margin-left: 20px;
     display: flex;
 }
 
 .info3 {
-    padding-left: 30px;
+    margin-left: 20px;
     display: flex;
 }
 
