@@ -484,3 +484,10 @@ hr.new {
   </body>
   </html> 
   
+  Teste para adicionar textura a minha div - lin1*/
+
+  @media only screen and (max-width: 1000px) {
+    body {
+      .h{background-color: lightblue;}
+    }
+  }
