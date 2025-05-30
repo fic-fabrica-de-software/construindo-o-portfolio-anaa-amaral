@@ -17,23 +17,15 @@ body {
 }
 
 .nome {
-    margin: 0% 45% 0% 5%;
+    margin: 0% 40% 0% 5%;
 }
 
 .info1 {
     margin-left: 20px;
+    margin-right: 20px;
     display: flex;
 }
 
-.info2 {
-    margin-left: 20px;
-    display: flex;
-}
-
-.info3 {
-    margin-left: 20px;
-    display: flex;
-}
 
 .im {
     border-radius: 1000px;
