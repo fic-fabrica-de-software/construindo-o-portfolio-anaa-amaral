@@ -78,11 +78,16 @@ body {
     align-items: center;
 }
 
-.imgs {
-    padding-top: 10px;
-    width: 70px;
-    height: 70px;
+.imgs{
+    transition: transform .2s;
+    width:70px;
+    height:70px;
+    margin:0.3%;
     padding-bottom: 40px;
+    padding-top: 40px;
+}
+img:hover{
+    transform:scale(1.75);
 }
 
 hr.new1 {
