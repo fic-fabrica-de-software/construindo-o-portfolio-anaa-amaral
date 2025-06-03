@@ -74,6 +74,8 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:  rgb(211, 38, 96);
     border: 0px;
+    justify-content: center;
+    align-items: center;
 }
 
 .imgs {
