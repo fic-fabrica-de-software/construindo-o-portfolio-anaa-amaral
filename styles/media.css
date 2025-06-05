@@ -185,10 +185,16 @@
     .info1 {
       display: none;
     }
+    .miniimg1{
+      height: 30px;
+      width: 30px;
+      margin-left: 40px;
+    }
+    
     .miniimg{
-      height: 40px;
-      width: 40px;
-      display: ;
+      height: 30px;
+      width: 30px;
+      margin-left: 10px;
     }
     .h {
       font-size:medium;

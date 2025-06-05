@@ -429,10 +429,18 @@ hr.new {
 
 }
 
+.miniimg1{
+  height: 30px;
+  width: 30px;
+  display: none;
+  margin-left: 40px;
+}
+
 .miniimg{
   height: 30px;
   width: 30px;
   display: none;
+  margin-left: 10px;
 }
 
 
