@@ -51,6 +51,12 @@ body {
     padding-left: 100px;
 }
 
+
+.p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+
 .h {
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
@@ -499,6 +505,10 @@ hr.new {
     .h {
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
+    }
+    .p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
   }
 
     }
