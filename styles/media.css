@@ -77,6 +77,10 @@
     .h {
       font-size: x-large;
     }
+    .p {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: large;
+    }
 
   }
 }
@@ -142,7 +146,6 @@
       font-family: 'Times New Roman', Times, serif;
       font-size: large;
     }
-
     .p {
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       font-size: large;
@@ -186,6 +189,10 @@
     .nome {
       font-size: smaller;
       margin: 0% 2% 0% 4%;
+    }
+    .p {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: medium;
     }
 
   }
