@@ -496,6 +496,11 @@ hr.new {
         height: 300px;
         width: 300px;
     }
+    .h {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+  }
+
     }
   }
 
