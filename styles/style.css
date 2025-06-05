@@ -569,7 +569,7 @@ hr.new {
     }
   }
 
-   @media only screen and (max-width: 1245px) {
+   @media only screen and (max-width: 1175px) {
     body {
   .info1 {
     margin-left: 10px;
@@ -578,13 +578,43 @@ hr.new {
   }
   .nome {
   font-size: smaller;
-  margin: 0% 15% 0% 5%;
+  margin: 0% 10% 0% 5%;
   }
 
     }
   }
 
-  @media only screen and (max-width: 1000px) {
+   @media only screen and (max-width: 1110px) {
+    body {
+  .info1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+  }
+  .nome {
+  font-size: smaller;
+  margin: 0% 5% 0% 5%;
+  }
+
+    }
+  }
+
+     @media only screen and (max-width: 1050px) {
+    body {
+  .info1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+  }
+  .nome {
+  font-size: smaller;
+  margin: 0% 2% 0% 4%;
+  }
+
+    }
+  }
+
+  @media only screen and (max-width: 1008px) {
     body {
     .im {
     height: 300px;
