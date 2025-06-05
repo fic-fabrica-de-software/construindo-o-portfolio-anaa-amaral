@@ -539,6 +539,21 @@ hr.new {
     }
   }
 
+    @media only screen and (max-width: 1330px) {
+    body {
+  .info1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+  }
+  .nome {
+  font-size: smaller;
+  margin: 0% 20% 0% 5%;
+  }
+
+    }
+  }
+
   @media only screen and (max-width: 1000px) {
     body {
     .im {
