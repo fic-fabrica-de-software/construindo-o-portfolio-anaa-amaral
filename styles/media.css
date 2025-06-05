@@ -182,19 +182,21 @@
 
 @media only screen and (max-width: 980px) {
   body {
-    .info1 {
+    .info1{
       display: none;
     }
     .miniimg1{
       height: 30px;
       width: 30px;
-      margin-left: 40px;
+      margin-left: 50%;
+      display: flex;
     }
     
     .miniimg{
       height: 30px;
       width: 30px;
       margin-left: 10px;
+      display: flex;
     }
     .h {
       font-size:medium;
