@@ -126,7 +126,11 @@
       margin-right: 10px;
       display: flex;
     }
-
+    .perfil {
+      padding-top: 100px;
+      padding-left: 50px;
+    }
+    
     .nome {
       font-size: smaller;
       margin: 0% 2% 0% 4%;
