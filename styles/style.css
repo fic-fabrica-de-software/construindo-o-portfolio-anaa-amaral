@@ -523,6 +523,12 @@ hr.new {
     display: flex;
     font-size: smaller;
   }
+  .nome {
+  font-size: smaller;
+  margin: 0% 10% 0% 5%;
+  }
+  
+
 
     }
   }
