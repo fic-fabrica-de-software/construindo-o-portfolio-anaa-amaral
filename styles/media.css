@@ -74,6 +74,9 @@
       font-size: smaller;
       margin: 0% 15% 0% 5%;
     }
+    .h {
+      font-size: x-large;
+    }
 
   }
 }
@@ -85,7 +88,9 @@
       margin-right: 10px;
       display: flex;
     }
-
+    .h {
+      font-size: large;
+    }
     .nome {
       font-size: smaller;
       margin: 0% 10% 0% 5%;
@@ -135,7 +140,7 @@
 
     .h {
       font-family: 'Times New Roman', Times, serif;
-      font-size: x-large;
+      font-size: large;
     }
 
     .p {
@@ -168,14 +173,16 @@
 }
 
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 980px) {
   body {
     .info1 {
       margin-left: 10px;
       margin-right: 10px;
       display: flex;
     }
-
+    .h {
+      font-size:medium;
+    }
     .nome {
       font-size: smaller;
       margin: 0% 2% 0% 4%;
@@ -191,7 +198,9 @@
       margin-right: 10px;
       display: flex;
     }
-
+    .h {
+      font-size: small;
+    }
     .nome {
       font-size: x-small;
       margin: 0% 2% 0% 4%;
