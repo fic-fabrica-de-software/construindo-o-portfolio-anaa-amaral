@@ -494,13 +494,26 @@ hr.new {
   
   Teste para adicionar textura a minha div - lin1*/
 
+    @media only screen and (max-width: 1700px) {
+    body {
+  .info1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+  }
+  .nome {
+  font-size: smaller;
+  margin: 0% 35% 0% 5%;
+  }
 
+    }
+  }
 
   @media only screen and (max-width: 1000px) {
     body {
-      .im {
-        height: 300px;
-        width: 300px;
+    .im {
+    height: 300px;
+    width: 300px;
     }
     .h {
     font-family: 'Times New Roman', Times, serif;
@@ -527,8 +540,6 @@ hr.new {
   font-size: smaller;
   margin: 0% 10% 0% 5%;
   }
-  
-
 
     }
   }
