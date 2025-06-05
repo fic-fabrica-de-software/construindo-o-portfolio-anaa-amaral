@@ -202,12 +202,6 @@
 
 @media only screen and (max-width: 865px) {
   body {
-    .info1 {
-      margin-left: 10px;
-      margin-right: 10px;
-      display: flex;
-    }
-
     .nome {
       font-size: x-small;
       margin: 0% 2% 0% 4%;
@@ -218,12 +212,6 @@
 
 @media only screen and (max-width: 795px) {
   body {
-    .info1 {
-      margin-left: 10px;
-      margin-right: 10px;
-      display: flex;
-    }
-
     .nome {
       font-size: xx-small;
       margin: 0% 2% 0% 4%;
