@@ -429,6 +429,11 @@ hr.new {
 
 }
 
+.miniimg{
+  height: 30px;
+  width: 30px;
+  display: none;
+}
 
 
 

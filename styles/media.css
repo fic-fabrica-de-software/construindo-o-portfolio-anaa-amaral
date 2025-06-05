@@ -185,6 +185,11 @@
     .info1 {
       display: none;
     }
+    .miniimg{
+      height: 40px;
+      width: 40px;
+      display: ;
+    }
     .h {
       font-size:medium;
     }
