@@ -445,16 +445,26 @@ hr.new {
 }
 
 .botao{
-  margin: 22% 45% 22% 45%;
-  padding: 10px;
+  margin: 22% 43% 22% 43%;
+  padding: 15px;
   align-items: center;
   text-align: center;
   border: 0px solid;
   background: linear-gradient(to left, rgba(255, 152, 186, 0.349), rgb(228, 64, 124));
   backdrop-filter: blur(2px);
   box-shadow: 10px 10px 10px rgb(202, 48, 100);
+  border-radius: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+a:link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 0, 0);
+}
 
 
 
