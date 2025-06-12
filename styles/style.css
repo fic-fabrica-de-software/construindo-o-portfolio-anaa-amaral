@@ -444,6 +444,14 @@ hr.new {
   margin-left: 10px;
 }
 
+.botao{
+  margin: 22% 45% 22% 45%;
+  border-style: solid;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+}
+
 
 
 
