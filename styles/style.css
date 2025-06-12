@@ -446,10 +446,13 @@ hr.new {
 
 .botao{
   margin: 22% 45% 22% 45%;
-  border-style: solid;
   padding: 10px;
   align-items: center;
   text-align: center;
+  border: 0px solid;
+  background: linear-gradient(to left, rgba(255, 152, 186, 0.349), rgb(228, 64, 124));
+  backdrop-filter: blur(2px);
+  box-shadow: 10px 10px 10px rgb(202, 48, 100);
 }
 
 
