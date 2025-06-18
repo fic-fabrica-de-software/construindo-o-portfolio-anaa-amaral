@@ -445,18 +445,6 @@ hr.new {
   margin-left: 10px;
 }
 
-.botao{
-  margin: 22% 43% 22% 43%;
-  padding: 15px;
-  align-items: center;
-  text-align: center;
-  border: 0px solid;
-  background: linear-gradient(to left, rgba(255, 152, 186, 0.349), rgb(228, 64, 124));
-  backdrop-filter: blur(2px);
-  box-shadow: 10px 10px 10px rgb(202, 48, 100);
-  border-radius: 10px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
 
 a:link {
   color: rgb(255, 255, 255);
@@ -468,24 +456,38 @@ a:hover {
 }
 
 
-    .heart {
-      position: absolute;
-      font-size: 24px;
-      animation: fall linear forwards;
-      user-select: none;
-      pointer-events: none;
-    }
+.heart {
+  position: absolute;
+  font-size: 24px;
+  animation: fall linear forwards;
+  user-select: none;
+  pointer-events: none;
+}
 
-    @keyframes fall {
-      0% {
-        transform: translateY(0);
-        opacity: 1;
-      }
-      100% {
-        transform: translateY(100vh);
-        opacity: 0;
-      }
+  @keyframes fall {
+    0% {
+      transform: translateY(0);
+      opacity: 1;
     }
+    100% {
+      transform: translateY(100vh);
+      opacity: 0;
+    }
+  }
+
+  .botao{
+  margin: 22% 43% 22% 43%;
+  padding: 15px;
+  position: absolute;
+  align-items: center;
+  text-align: center;
+  border: 0px solid;
+  background: linear-gradient(to left, rgba(255, 152, 186, 0.349), rgb(228, 64, 124));
+  backdrop-filter: blur(2px);
+  box-shadow: 10px 10px 10px rgb(202, 48, 100);
+  border-radius: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 
 /* 
