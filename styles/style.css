@@ -445,8 +445,10 @@ hr.new {
   margin-left: 10px;
 }
 
-body.page2{
-  background-color: black;
+body.index1-page {
+  background-color: #ffebcd;
+  color: #333;
+  font-family: Arial, sans-serif;
 }
 
 a:link {
@@ -457,7 +459,6 @@ a:link {
 a:hover {
   color: rgb(0, 0, 0);
 }
-
 
 .heart {
   position: absolute;
