@@ -445,6 +445,9 @@ hr.new {
   margin-left: 10px;
 }
 
+body.index2{
+  color: aquamarine;
+}
 
 a:link {
   color: rgb(255, 255, 255);
