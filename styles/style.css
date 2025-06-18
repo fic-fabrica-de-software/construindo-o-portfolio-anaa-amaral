@@ -3,6 +3,7 @@ body {
   background-image: linear-gradient(rgb(238, 89, 144), rgb(253, 159, 213), rgb(238, 89, 144));
   margin: 10px;
   position: relative;
+  overflow: hidden;
 }
 
 .borda {
@@ -466,13 +467,48 @@ a:hover {
   color: rgb(0, 0, 0);
 }
 
-.custom-popover {
-  --bs-popover-max-width: 200px;
-  --bs-popover-border-color: var(--bd-violet-bg);
-  --bs-popover-header-bg: var(--bd-violet-bg);
-  --bs-popover-header-color: var(--bs-white);
-  --bs-popover-body-padding-x: 1rem;
-  --bs-popover-body-padding-y: .5rem;
+.container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.heart {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  transform: rotate(45deg);
+  animation: fall 5s linear infinite;
+  opacity: 0.8;
+}
+
+.heart::before,
+.heart::after {
+  content: '';
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.heart::before {
+  top: -10px;
+  left: 0;
+}
+
+.heart::after {
+  left: -10px;
+  top: 0;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(100vh) rotate(45deg);
+    opacity: 0;
+  }
 }
 
 
