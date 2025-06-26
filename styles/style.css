@@ -2,8 +2,6 @@ body {
   background-color: red;
   background-image: linear-gradient(rgb(238, 89, 144), rgb(253, 159, 213), rgb(238, 89, 144));
   margin: 10px;
-  position: relative;
-  overflow: hidden;
 }
 
 .borda {
@@ -492,6 +490,7 @@ a:hover {
   border-radius: 10px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 
 
 /* 
